@@ -1,0 +1,23 @@
+* {
+    font-family: "Droid Sans", "Helvetica Neue", Georgia;
+}
+
+
+body {
+    background-color: #958BBB;
+}
+
+thead {
+    text-align: center;
+    border: 1px solid #65579C;
+
+}
+
+tbody {
+    background-color: #C0BAD6;
+}
+
+table {
+    border: 4px solid #65579C;
+
+}
